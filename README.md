@@ -1,6 +1,6 @@
-# FlowLens
+# FlowLens Android Navigator
 
-FlowLens is an Android Studio plugin that analyzes Android navigation patterns and renders an interactive screen flow graph for Activities, Fragments, Compose destinations, bottom sheets, dialogs, and deep links.
+FlowLens Android Navigator is an Android Studio plugin that analyzes Android navigation patterns and renders an interactive screen flow graph for Activities, Fragments, Compose destinations, bottom sheets, dialogs, and deep links.
 
 ## Features
 

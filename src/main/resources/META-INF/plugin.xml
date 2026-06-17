@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.flowlens.plugin</id>
-    <name>FlowLens</name>
+    <name>FlowLens Android Navigator</name>
     <vendor email="support@flowlens.dev" url="https://flowlens.dev">FlowLens</vendor>
 
     <description><![CDATA[
@@ -44,4 +44,3 @@
         </action>
     </actions>
 </idea-plugin>
-

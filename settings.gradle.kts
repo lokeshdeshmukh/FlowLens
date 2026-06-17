@@ -1,2 +1,1 @@
-rootProject.name = "FlowLens"
-
+rootProject.name = "FlowLensAndroidNavigator"
